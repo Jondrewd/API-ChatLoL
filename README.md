@@ -1,0 +1,2 @@
+# Api-ChatLOL
+ Este repositório contém um projeto de API desenvolvida em Spring Boot que fornece informações sobre os campeões do League of Legends. Além disso, integra a inteligência artificial do Google Gemini, permitindo que os usuários façam perguntas sobre os campeões selecionados e recebam respostas simuladas baseadas nas lore dos personagens. O projeto também utiliza um banco de dados H2 embutido para armazenar os dados dos campeões, proporcionando uma consulta eficiente e rápida.
